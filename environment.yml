@@ -1,4 +1,4 @@
-name: pytorch_env_updated
+name: aml_project
 channels:
   - pytorch
   - nvidia
